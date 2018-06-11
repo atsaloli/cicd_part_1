@@ -1,11 +1,12 @@
 <p style="text-align: center;">
-# Introduction to CI/CD
+<h1>Introduction to CI/CD</h1>
 </p>
 
 <p style="text-align: center;">
-## Key Terms and Concepts
+<h2>Key Terms and Concepts</h2>
 </p>
 
+<br>
 <p style="text-align: center;">
 Aleksey Tsalolikhin
 </p>
@@ -18,6 +19,7 @@ Vertical Sysadmin, Inc.
 [aleksey@verticalsysadmin.com](mailto:aleksey@verticalsysadmin.com)
 </p>
 
+<br>
 <p style="text-align: right;">
 10 June 2018
 </p>
