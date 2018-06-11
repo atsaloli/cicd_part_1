@@ -1,5 +1,10 @@
+<p style="text-align: center;">
 # Introduction to CI/CD
+</p>
+
+<p style="text-align: center;">
 ## Key Terms and Concepts
+</p>
 
 <p style="text-align: center;">
 Aleksey Tsalolikhin
