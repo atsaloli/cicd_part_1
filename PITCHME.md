@@ -3,12 +3,10 @@
 
 <p style="text-align: center;">
 Aleksey Tsalolikhin
-[aleksey@verticalsysadmin.com](mailto:aleksey@verticalsysadmin.com)
 </p>
 
 <p style="text-align: center;">
 Vertical Sysadmin, Inc.
-[aleksey@verticalsysadmin.com](mailto:aleksey@verticalsysadmin.com)
 </p>
 
 <p style="text-align: center;">
