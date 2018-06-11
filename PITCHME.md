@@ -1,10 +1,6 @@
-<p style="text-align: center;">
-<h1>Introduction to CI/CD</h1>
-</p>
+<h1 align=center>Introduction to CI/CD</h1>
 
-<p style="text-align: center;">
-<h2>Key Terms and Concepts</h2>
-</p>
+<h2 align=center>Key Terms and Concepts</h2>
 
 <br>
 <p style="text-align: center;">
