@@ -1,13 +1,18 @@
 # Introduction to CI/CD
 ## Key Terms and Concepts
 
+<p style="text-align: center;">
 Aleksey Tsalolikhin
 
 Vertical Sysadmin, Inc.
 
 [aleksey@verticalsysadmin.com](mailto:aleksey@verticalsysadmin.com)
 
+</p>
+
+<p style="text-align: right;">
 10 June 2018
+</p>
 
 ---
 
