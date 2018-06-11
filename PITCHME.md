@@ -5,7 +5,7 @@ Aleksey Tsalolikhin
 
 Vertical Sysadmin, Inc.
 
-aleksey@verticalsysadmin.com
+[aleksey@verticalsysadmin.com](mailto:aleksey@verticalsysadmin.com)
 
 10 June 2018
 
